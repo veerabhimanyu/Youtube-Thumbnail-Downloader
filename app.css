@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  align-items: center;
+}
+.imageDiv {
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.image {
+  border-radius: 20px;
+}
+.inputElement {
+  padding: 10px 30px 10px 30px;
+  border-radius: 20px;
+}
+.btn {
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  background-color: yellow;
+}
